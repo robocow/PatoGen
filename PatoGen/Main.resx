@@ -120,154 +120,6 @@
   <metadata name="cdPicker.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>17, 17</value>
   </metadata>
-  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
-  <data name="barEffect.Location" type="System.Drawing.Point, System.Drawing">
-    <value>115, 108</value>
-  </data>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="barEffect.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>0, 0, 0, 0</value>
-  </data>
-  <data name="barEffect.Size" type="System.Drawing.Size, System.Drawing">
-    <value>510, 45</value>
-  </data>
-  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="barEffect.TabIndex" type="System.Int32, mscorlib">
-    <value>7</value>
-  </data>
-  <data name="&gt;&gt;barEffect.Name" xml:space="preserve">
-    <value>barEffect</value>
-  </data>
-  <data name="&gt;&gt;barEffect.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TrackBar, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;barEffect.Parent" xml:space="preserve">
-    <value>tabGradient</value>
-  </data>
-  <data name="&gt;&gt;barEffect.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="Label1.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="Label1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>39, 111</value>
-  </data>
-  <data name="Label1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>46, 26</value>
-  </data>
-  <data name="Label1.TabIndex" type="System.Int32, mscorlib">
-    <value>6</value>
-  </data>
-  <data name="Label1.Text" xml:space="preserve">
-    <value>Effect 
-Channel</value>
-  </data>
-  <data name="&gt;&gt;Label1.Name" xml:space="preserve">
-    <value>Label1</value>
-  </data>
-  <data name="&gt;&gt;Label1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;Label1.Parent" xml:space="preserve">
-    <value>tabGradient</value>
-  </data>
-  <data name="&gt;&gt;Label1.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="txtEffectChannel.Location" type="System.Drawing.Point, System.Drawing">
-    <value>654, 108</value>
-  </data>
-  <data name="txtEffectChannel.Size" type="System.Drawing.Size, System.Drawing">
-    <value>41, 20</value>
-  </data>
-  <data name="txtEffectChannel.TabIndex" type="System.Int32, mscorlib">
-    <value>5</value>
-  </data>
-  <data name="txtEffectChannel.Text" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;txtEffectChannel.Name" xml:space="preserve">
-    <value>txtEffectChannel</value>
-  </data>
-  <data name="&gt;&gt;txtEffectChannel.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;txtEffectChannel.Parent" xml:space="preserve">
-    <value>tabGradient</value>
-  </data>
-  <data name="&gt;&gt;txtEffectChannel.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="txtSaveFileName.Location" type="System.Drawing.Point, System.Drawing">
-    <value>120, 309</value>
-  </data>
-  <data name="txtSaveFileName.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>2, 2, 2, 2</value>
-  </data>
-  <data name="txtSaveFileName.MinimumSize" type="System.Drawing.Size, System.Drawing">
-    <value>4, 45</value>
-  </data>
-  <data name="txtSaveFileName.Size" type="System.Drawing.Size, System.Drawing">
-    <value>454, 20</value>
-  </data>
-  <data name="txtSaveFileName.TabIndex" type="System.Int32, mscorlib">
-    <value>4</value>
-  </data>
-  <data name="txtSaveFileName.Text" xml:space="preserve">
-    <value>File name to save</value>
-  </data>
-  <data name="&gt;&gt;txtSaveFileName.Name" xml:space="preserve">
-    <value>txtSaveFileName</value>
-  </data>
-  <data name="&gt;&gt;txtSaveFileName.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;txtSaveFileName.Parent" xml:space="preserve">
-    <value>tabGradient</value>
-  </data>
-  <data name="&gt;&gt;txtSaveFileName.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
-  <data name="btnWrite.Location" type="System.Drawing.Point, System.Drawing">
-    <value>42, 309</value>
-  </data>
-  <data name="btnWrite.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>2, 2, 2, 2</value>
-  </data>
-  <data name="btnWrite.Size" type="System.Drawing.Size, System.Drawing">
-    <value>75, 21</value>
-  </data>
-  <data name="btnWrite.TabIndex" type="System.Int32, mscorlib">
-    <value>3</value>
-  </data>
-  <data name="btnWrite.Text" xml:space="preserve">
-    <value>Write Scene</value>
-  </data>
-  <data name="&gt;&gt;btnWrite.Name" xml:space="preserve">
-    <value>btnWrite</value>
-  </data>
-  <data name="&gt;&gt;btnWrite.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btnWrite.Parent" xml:space="preserve">
-    <value>tabGradient</value>
-  </data>
-  <data name="&gt;&gt;btnWrite.ZOrder" xml:space="preserve">
-    <value>4</value>
-  </data>
-  <data name="picGradientPreview.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="picGradientPreview.Location" type="System.Drawing.Point, System.Drawing">
-    <value>115, 167</value>
-  </data>
-  <data name="picGradientPreview.Size" type="System.Drawing.Size, System.Drawing">
-    <value>510, 50</value>
-  </data>
-  <data name="picGradientPreview.TabIndex" type="System.Int32, mscorlib">
-    <value>2</value>
-  </data>
   <data name="&gt;&gt;picGradientPreview.Name" xml:space="preserve">
     <value>picGradientPreview</value>
   </data>
@@ -278,19 +130,7 @@ Channel</value>
     <value>tabGradient</value>
   </data>
   <data name="&gt;&gt;picGradientPreview.ZOrder" xml:space="preserve">
-    <value>5</value>
-  </data>
-  <data name="picGradientColor2.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="picGradientColor2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>654, 167</value>
-  </data>
-  <data name="picGradientColor2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>50, 50</value>
-  </data>
-  <data name="picGradientColor2.TabIndex" type="System.Int32, mscorlib">
-    <value>1</value>
+    <value>0</value>
   </data>
   <data name="&gt;&gt;picGradientColor2.Name" xml:space="preserve">
     <value>picGradientColor2</value>
@@ -302,16 +142,7 @@ Channel</value>
     <value>tabGradient</value>
   </data>
   <data name="&gt;&gt;picGradientColor2.ZOrder" xml:space="preserve">
-    <value>6</value>
-  </data>
-  <data name="picGradientColor1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>42, 167</value>
-  </data>
-  <data name="picGradientColor1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>50, 50</value>
-  </data>
-  <data name="picGradientColor1.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
+    <value>1</value>
   </data>
   <data name="&gt;&gt;picGradientColor1.Name" xml:space="preserve">
     <value>picGradientColor1</value>
@@ -323,17 +154,20 @@ Channel</value>
     <value>tabGradient</value>
   </data>
   <data name="&gt;&gt;picGradientColor1.ZOrder" xml:space="preserve">
-    <value>7</value>
+    <value>2</value>
   </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
   <data name="tabGradient.Location" type="System.Drawing.Point, System.Drawing">
     <value>4, 22</value>
   </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="tabGradient.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>3, 3, 3, 3</value>
   </data>
   <data name="tabGradient.Size" type="System.Drawing.Size, System.Drawing">
-    <value>742, 364</value>
+    <value>742, 307</value>
   </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="tabGradient.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
   </data>
@@ -352,38 +186,413 @@ Channel</value>
   <data name="&gt;&gt;tabGradient.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
-  <data name="TabPage2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>4, 22</value>
+  <data name="picBaseCol.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
   </data>
-  <data name="TabPage2.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>3, 3, 3, 3</value>
+  <data name="picBaseCol.Location" type="System.Drawing.Point, System.Drawing">
+    <value>685, 145</value>
   </data>
-  <data name="TabPage2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>742, 364</value>
+  <data name="picBaseCol.Size" type="System.Drawing.Size, System.Drawing">
+    <value>30, 26</value>
   </data>
-  <data name="TabPage2.TabIndex" type="System.Int32, mscorlib">
+  <data name="picBaseCol.TabIndex" type="System.Int32, mscorlib">
+    <value>20</value>
+  </data>
+  <data name="&gt;&gt;picBaseCol.Name" xml:space="preserve">
+    <value>picBaseCol</value>
+  </data>
+  <data name="&gt;&gt;picBaseCol.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;picBaseCol.Parent" xml:space="preserve">
+    <value>tabCycles</value>
+  </data>
+  <data name="&gt;&gt;picBaseCol.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="btnCyclePreview.Location" type="System.Drawing.Point, System.Drawing">
+    <value>542, 279</value>
+  </data>
+  <data name="btnCyclePreview.Size" type="System.Drawing.Size, System.Drawing">
+    <value>119, 22</value>
+  </data>
+  <data name="btnCyclePreview.TabIndex" type="System.Int32, mscorlib">
+    <value>19</value>
+  </data>
+  <data name="btnCyclePreview.Text" xml:space="preserve">
+    <value>Preview</value>
+  </data>
+  <data name="&gt;&gt;btnCyclePreview.Name" xml:space="preserve">
+    <value>btnCyclePreview</value>
+  </data>
+  <data name="&gt;&gt;btnCyclePreview.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnCyclePreview.Parent" xml:space="preserve">
+    <value>tabCycles</value>
+  </data>
+  <data name="&gt;&gt;btnCyclePreview.ZOrder" xml:space="preserve">
     <value>1</value>
   </data>
-  <data name="TabPage2.Text" xml:space="preserve">
-    <value>TabPage2</value>
+  <data name="Label5.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
   </data>
-  <data name="&gt;&gt;TabPage2.Name" xml:space="preserve">
-    <value>TabPage2</value>
+  <data name="Label5.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
   </data>
-  <data name="&gt;&gt;TabPage2.Type" xml:space="preserve">
+  <data name="Label5.Location" type="System.Drawing.Point, System.Drawing">
+    <value>602, 212</value>
+  </data>
+  <data name="Label5.Size" type="System.Drawing.Size, System.Drawing">
+    <value>37, 39</value>
+  </data>
+  <data name="Label5.TabIndex" type="System.Int32, mscorlib">
+    <value>18</value>
+  </data>
+  <data name="Label5.Text" xml:space="preserve">
+    <value>Period
+
+Phase</value>
+  </data>
+  <data name="&gt;&gt;Label5.Name" xml:space="preserve">
+    <value>Label5</value>
+  </data>
+  <data name="&gt;&gt;Label5.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Label5.Parent" xml:space="preserve">
+    <value>tabCycles</value>
+  </data>
+  <data name="&gt;&gt;Label5.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="Label4.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="Label4.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="Label4.Location" type="System.Drawing.Point, System.Drawing">
+    <value>602, 127</value>
+  </data>
+  <data name="Label4.Size" type="System.Drawing.Size, System.Drawing">
+    <value>37, 39</value>
+  </data>
+  <data name="Label4.TabIndex" type="System.Int32, mscorlib">
+    <value>17</value>
+  </data>
+  <data name="Label4.Text" xml:space="preserve">
+    <value>Period
+
+Phase</value>
+  </data>
+  <data name="&gt;&gt;Label4.Name" xml:space="preserve">
+    <value>Label4</value>
+  </data>
+  <data name="&gt;&gt;Label4.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Label4.Parent" xml:space="preserve">
+    <value>tabCycles</value>
+  </data>
+  <data name="&gt;&gt;Label4.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="Label3.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="Label3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>602, 51</value>
+  </data>
+  <data name="Label3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>37, 39</value>
+  </data>
+  <data name="Label3.TabIndex" type="System.Int32, mscorlib">
+    <value>16</value>
+  </data>
+  <data name="Label3.Text" xml:space="preserve">
+    <value>Period
+
+Phase</value>
+  </data>
+  <data name="&gt;&gt;Label3.Name" xml:space="preserve">
+    <value>Label3</value>
+  </data>
+  <data name="&gt;&gt;Label3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Label3.Parent" xml:space="preserve">
+    <value>tabCycles</value>
+  </data>
+  <data name="&gt;&gt;Label3.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="nudBluPhase.Location" type="System.Drawing.Point, System.Drawing">
+    <value>542, 236</value>
+  </data>
+  <data name="nudBluPhase.Size" type="System.Drawing.Size, System.Drawing">
+    <value>46, 20</value>
+  </data>
+  <data name="nudBluPhase.TabIndex" type="System.Int32, mscorlib">
+    <value>15</value>
+  </data>
+  <data name="&gt;&gt;nudBluPhase.Name" xml:space="preserve">
+    <value>nudBluPhase</value>
+  </data>
+  <data name="&gt;&gt;nudBluPhase.Type" xml:space="preserve">
+    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;nudBluPhase.Parent" xml:space="preserve">
+    <value>tabCycles</value>
+  </data>
+  <data name="&gt;&gt;nudBluPhase.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="nudGrnPhase.Location" type="System.Drawing.Point, System.Drawing">
+    <value>542, 151</value>
+  </data>
+  <data name="nudGrnPhase.Size" type="System.Drawing.Size, System.Drawing">
+    <value>46, 20</value>
+  </data>
+  <data name="nudGrnPhase.TabIndex" type="System.Int32, mscorlib">
+    <value>14</value>
+  </data>
+  <data name="&gt;&gt;nudGrnPhase.Name" xml:space="preserve">
+    <value>nudGrnPhase</value>
+  </data>
+  <data name="&gt;&gt;nudGrnPhase.Type" xml:space="preserve">
+    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;nudGrnPhase.Parent" xml:space="preserve">
+    <value>tabCycles</value>
+  </data>
+  <data name="&gt;&gt;nudGrnPhase.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="nudRedPhase.Location" type="System.Drawing.Point, System.Drawing">
+    <value>542, 74</value>
+  </data>
+  <data name="nudRedPhase.Size" type="System.Drawing.Size, System.Drawing">
+    <value>46, 20</value>
+  </data>
+  <data name="nudRedPhase.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="&gt;&gt;nudRedPhase.Name" xml:space="preserve">
+    <value>nudRedPhase</value>
+  </data>
+  <data name="&gt;&gt;nudRedPhase.Type" xml:space="preserve">
+    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;nudRedPhase.Parent" xml:space="preserve">
+    <value>tabCycles</value>
+  </data>
+  <data name="&gt;&gt;nudRedPhase.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="nudBluPeriod.Location" type="System.Drawing.Point, System.Drawing">
+    <value>542, 208</value>
+  </data>
+  <data name="nudBluPeriod.Size" type="System.Drawing.Size, System.Drawing">
+    <value>56, 20</value>
+  </data>
+  <data name="nudBluPeriod.TabIndex" type="System.Int32, mscorlib">
+    <value>12</value>
+  </data>
+  <data name="&gt;&gt;nudBluPeriod.Name" xml:space="preserve">
+    <value>nudBluPeriod</value>
+  </data>
+  <data name="&gt;&gt;nudBluPeriod.Type" xml:space="preserve">
+    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;nudBluPeriod.Parent" xml:space="preserve">
+    <value>tabCycles</value>
+  </data>
+  <data name="&gt;&gt;nudBluPeriod.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="nudGrnPeriod.Location" type="System.Drawing.Point, System.Drawing">
+    <value>542, 123</value>
+  </data>
+  <data name="nudGrnPeriod.Size" type="System.Drawing.Size, System.Drawing">
+    <value>56, 20</value>
+  </data>
+  <data name="nudGrnPeriod.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="&gt;&gt;nudGrnPeriod.Name" xml:space="preserve">
+    <value>nudGrnPeriod</value>
+  </data>
+  <data name="&gt;&gt;nudGrnPeriod.Type" xml:space="preserve">
+    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;nudGrnPeriod.Parent" xml:space="preserve">
+    <value>tabCycles</value>
+  </data>
+  <data name="&gt;&gt;nudGrnPeriod.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="nudRedPeriod.Location" type="System.Drawing.Point, System.Drawing">
+    <value>542, 46</value>
+  </data>
+  <data name="nudRedPeriod.Size" type="System.Drawing.Size, System.Drawing">
+    <value>56, 20</value>
+  </data>
+  <data name="nudRedPeriod.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="&gt;&gt;nudRedPeriod.Name" xml:space="preserve">
+    <value>nudRedPeriod</value>
+  </data>
+  <data name="&gt;&gt;nudRedPeriod.Type" xml:space="preserve">
+    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;nudRedPeriod.Parent" xml:space="preserve">
+    <value>tabCycles</value>
+  </data>
+  <data name="&gt;&gt;nudRedPeriod.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="chkBluCycEnable.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="chkBluCycEnable.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="chkBluCycEnable.Location" type="System.Drawing.Point, System.Drawing">
+    <value>542, 185</value>
+  </data>
+  <data name="chkBluCycEnable.Size" type="System.Drawing.Size, System.Drawing">
+    <value>112, 17</value>
+  </data>
+  <data name="chkBluCycEnable.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="chkBluCycEnable.Text" xml:space="preserve">
+    <value>Blue Cycle Enable</value>
+  </data>
+  <data name="&gt;&gt;chkBluCycEnable.Name" xml:space="preserve">
+    <value>chkBluCycEnable</value>
+  </data>
+  <data name="&gt;&gt;chkBluCycEnable.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;chkBluCycEnable.Parent" xml:space="preserve">
+    <value>tabCycles</value>
+  </data>
+  <data name="&gt;&gt;chkBluCycEnable.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="chkGrnCycEnable.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="chkGrnCycEnable.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="chkGrnCycEnable.Location" type="System.Drawing.Point, System.Drawing">
+    <value>542, 100</value>
+  </data>
+  <data name="chkGrnCycEnable.Size" type="System.Drawing.Size, System.Drawing">
+    <value>120, 17</value>
+  </data>
+  <data name="chkGrnCycEnable.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="chkGrnCycEnable.Text" xml:space="preserve">
+    <value>Green Cycle Enable</value>
+  </data>
+  <data name="&gt;&gt;chkGrnCycEnable.Name" xml:space="preserve">
+    <value>chkGrnCycEnable</value>
+  </data>
+  <data name="&gt;&gt;chkGrnCycEnable.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;chkGrnCycEnable.Parent" xml:space="preserve">
+    <value>tabCycles</value>
+  </data>
+  <data name="&gt;&gt;chkGrnCycEnable.ZOrder" xml:space="preserve">
+    <value>12</value>
+  </data>
+  <data name="chkRedCycEnable.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="chkRedCycEnable.Location" type="System.Drawing.Point, System.Drawing">
+    <value>542, 20</value>
+  </data>
+  <data name="chkRedCycEnable.Size" type="System.Drawing.Size, System.Drawing">
+    <value>111, 17</value>
+  </data>
+  <data name="chkRedCycEnable.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="chkRedCycEnable.Text" xml:space="preserve">
+    <value>Red Cycle Enable</value>
+  </data>
+  <data name="&gt;&gt;chkRedCycEnable.Name" xml:space="preserve">
+    <value>chkRedCycEnable</value>
+  </data>
+  <data name="&gt;&gt;chkRedCycEnable.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;chkRedCycEnable.Parent" xml:space="preserve">
+    <value>tabCycles</value>
+  </data>
+  <data name="&gt;&gt;chkRedCycEnable.ZOrder" xml:space="preserve">
+    <value>13</value>
+  </data>
+  <data name="picCyclePreview.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 10</value>
+  </data>
+  <data name="picCyclePreview.Size" type="System.Drawing.Size, System.Drawing">
+    <value>510, 255</value>
+  </data>
+  <data name="picCyclePreview.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;picCyclePreview.Name" xml:space="preserve">
+    <value>picCyclePreview</value>
+  </data>
+  <data name="&gt;&gt;picCyclePreview.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;picCyclePreview.Parent" xml:space="preserve">
+    <value>tabCycles</value>
+  </data>
+  <data name="&gt;&gt;picCyclePreview.ZOrder" xml:space="preserve">
+    <value>14</value>
+  </data>
+  <data name="tabCycles.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 22</value>
+  </data>
+  <data name="tabCycles.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="tabCycles.Size" type="System.Drawing.Size, System.Drawing">
+    <value>742, 307</value>
+  </data>
+  <data name="tabCycles.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="tabCycles.Text" xml:space="preserve">
+    <value>Cycles</value>
+  </data>
+  <data name="&gt;&gt;tabCycles.Name" xml:space="preserve">
+    <value>tabCycles</value>
+  </data>
+  <data name="&gt;&gt;tabCycles.Type" xml:space="preserve">
     <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;TabPage2.Parent" xml:space="preserve">
+  <data name="&gt;&gt;tabCycles.Parent" xml:space="preserve">
     <value>tabMain</value>
   </data>
-  <data name="&gt;&gt;TabPage2.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;tabCycles.ZOrder" xml:space="preserve">
     <value>1</value>
   </data>
   <data name="tabMain.Location" type="System.Drawing.Point, System.Drawing">
-    <value>12, 50</value>
+    <value>12, 116</value>
   </data>
   <data name="tabMain.Size" type="System.Drawing.Size, System.Drawing">
-    <value>750, 390</value>
+    <value>750, 333</value>
   </data>
   <data name="tabMain.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -398,13 +607,272 @@ Channel</value>
     <value>$this</value>
   </data>
   <data name="&gt;&gt;tabMain.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="picGradientPreview.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="picGradientPreview.Location" type="System.Drawing.Point, System.Drawing">
+    <value>115, 93</value>
+  </data>
+  <data name="picGradientPreview.Size" type="System.Drawing.Size, System.Drawing">
+    <value>510, 50</value>
+  </data>
+  <data name="picGradientPreview.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;picGradientPreview.Name" xml:space="preserve">
+    <value>picGradientPreview</value>
+  </data>
+  <data name="&gt;&gt;picGradientPreview.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;picGradientPreview.Parent" xml:space="preserve">
+    <value>tabGradient</value>
+  </data>
+  <data name="&gt;&gt;picGradientPreview.ZOrder" xml:space="preserve">
     <value>0</value>
+  </data>
+  <data name="picGradientColor2.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="picGradientColor2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>654, 93</value>
+  </data>
+  <data name="picGradientColor2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>50, 50</value>
+  </data>
+  <data name="picGradientColor2.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;picGradientColor2.Name" xml:space="preserve">
+    <value>picGradientColor2</value>
+  </data>
+  <data name="&gt;&gt;picGradientColor2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;picGradientColor2.Parent" xml:space="preserve">
+    <value>tabGradient</value>
+  </data>
+  <data name="&gt;&gt;picGradientColor2.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="picGradientColor1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>42, 93</value>
+  </data>
+  <data name="picGradientColor1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>50, 50</value>
+  </data>
+  <data name="picGradientColor1.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;picGradientColor1.Name" xml:space="preserve">
+    <value>picGradientColor1</value>
+  </data>
+  <data name="&gt;&gt;picGradientColor1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;picGradientColor1.Parent" xml:space="preserve">
+    <value>tabGradient</value>
+  </data>
+  <data name="&gt;&gt;picGradientColor1.ZOrder" xml:space="preserve">
+    <value>2</value>
   </data>
   <metadata name="dlgSceneFileSave.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>180, 17</value>
   </metadata>
   <data name="dlgSceneFileSave.Filter" xml:space="preserve">
     <value>Scene Files '(*.csv)'|*.csv</value>
+  </data>
+  <data name="Label2.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="Label2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>20, 26</value>
+  </data>
+  <data name="Label2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>53, 13</value>
+  </data>
+  <data name="Label2.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="Label2.Text" xml:space="preserve">
+    <value># Fixtures</value>
+  </data>
+  <data name="&gt;&gt;Label2.Name" xml:space="preserve">
+    <value>Label2</value>
+  </data>
+  <data name="&gt;&gt;Label2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Label2.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;Label2.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="nudFixtures.Location" type="System.Drawing.Point, System.Drawing">
+    <value>82, 27</value>
+  </data>
+  <data name="nudFixtures.Size" type="System.Drawing.Size, System.Drawing">
+    <value>120, 20</value>
+  </data>
+  <data name="nudFixtures.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;nudFixtures.Name" xml:space="preserve">
+    <value>nudFixtures</value>
+  </data>
+  <data name="&gt;&gt;nudFixtures.Type" xml:space="preserve">
+    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;nudFixtures.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;nudFixtures.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <metadata name="Timer.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>325, 17</value>
+  </metadata>
+  <data name="txtSaveFileName.Location" type="System.Drawing.Point, System.Drawing">
+    <value>329, 27</value>
+  </data>
+  <data name="txtSaveFileName.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="txtSaveFileName.Size" type="System.Drawing.Size, System.Drawing">
+    <value>429, 20</value>
+  </data>
+  <data name="txtSaveFileName.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="txtSaveFileName.Text" xml:space="preserve">
+    <value>File name to save</value>
+  </data>
+  <data name="&gt;&gt;txtSaveFileName.Name" xml:space="preserve">
+    <value>txtSaveFileName</value>
+  </data>
+  <data name="&gt;&gt;txtSaveFileName.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txtSaveFileName.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;txtSaveFileName.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="btnWriteCycle.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnWriteCycle.Location" type="System.Drawing.Point, System.Drawing">
+    <value>251, 27</value>
+  </data>
+  <data name="btnWriteCycle.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="btnWriteCycle.Size" type="System.Drawing.Size, System.Drawing">
+    <value>75, 21</value>
+  </data>
+  <data name="btnWriteCycle.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="btnWriteCycle.Text" xml:space="preserve">
+    <value>&amp;Write Scene</value>
+  </data>
+  <data name="&gt;&gt;btnWriteCycle.Name" xml:space="preserve">
+    <value>btnWriteCycle</value>
+  </data>
+  <data name="&gt;&gt;btnWriteCycle.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnWriteCycle.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnWriteCycle.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="barEffect.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="barEffect.Location" type="System.Drawing.Point, System.Drawing">
+    <value>131, 68</value>
+  </data>
+  <data name="barEffect.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 0, 0</value>
+  </data>
+  <data name="barEffect.Size" type="System.Drawing.Size, System.Drawing">
+    <value>510, 45</value>
+  </data>
+  <data name="barEffect.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="&gt;&gt;barEffect.Name" xml:space="preserve">
+    <value>barEffect</value>
+  </data>
+  <data name="&gt;&gt;barEffect.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TrackBar, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;barEffect.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;barEffect.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="Label1.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="Label1.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="Label1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>55, 71</value>
+  </data>
+  <data name="Label1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>46, 26</value>
+  </data>
+  <data name="Label1.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="Label1.Text" xml:space="preserve">
+    <value>Effect 
+Channel</value>
+  </data>
+  <data name="&gt;&gt;Label1.Name" xml:space="preserve">
+    <value>Label1</value>
+  </data>
+  <data name="&gt;&gt;Label1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Label1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;Label1.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="txtEffectChannel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>670, 68</value>
+  </data>
+  <data name="txtEffectChannel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>41, 20</value>
+  </data>
+  <data name="txtEffectChannel.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="txtEffectChannel.Text" xml:space="preserve">
+    <value>149</value>
+  </data>
+  <data name="&gt;&gt;txtEffectChannel.Name" xml:space="preserve">
+    <value>txtEffectChannel</value>
+  </data>
+  <data name="&gt;&gt;txtEffectChannel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txtEffectChannel.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;txtEffectChannel.ZOrder" xml:space="preserve">
+    <value>2</value>
   </data>
   <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
@@ -429,6 +897,12 @@ Channel</value>
   </data>
   <data name="&gt;&gt;dlgSceneFileSave.Type" xml:space="preserve">
     <value>System.Windows.Forms.SaveFileDialog, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Timer.Name" xml:space="preserve">
+    <value>Timer</value>
+  </data>
+  <data name="&gt;&gt;Timer.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Timer, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;$this.Name" xml:space="preserve">
     <value>frmMain</value>
